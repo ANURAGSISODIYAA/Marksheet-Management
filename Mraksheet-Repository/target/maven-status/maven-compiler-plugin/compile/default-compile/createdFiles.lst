@@ -1,0 +1,5 @@
+com\eiit\repository\LoginRepository.class
+com\eiit\repository\MarksheetRepository.class
+com\eiit\repository\RegistrationRepository.class
+com\eiit\model\MarksheetDTO.class
+com\eiit\model\UserDTO.class
